@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Mi Disco\\ZigZagMe-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ml\\values-ml.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ahmad\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.18.0.aar\\06705bb5750c17ce3adb38364343c13b\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,244,370,489,584,658,735,800,876,955,1059,1143,1227,1322,1432,1501,1569,1731",
+                        "endColumns": "188,125,118,94,73,76,64,75,78,103,83,83,94,109,68,67,161,64",
+                        "endOffsets": "239,365,484,579,653,730,795,871,950,1054,1138,1222,1317,1427,1496,1564,1726,1791"
+                    }
+                }
+            ]
+        }
+    ]
+}
